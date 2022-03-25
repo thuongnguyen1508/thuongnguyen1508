@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="200.gif"> 
+  <a href="giphy.gif"> 
     <img align="center" src="200.gif"/>
   </a>
 </p>
