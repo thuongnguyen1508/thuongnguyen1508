@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="giphy.gif"> 
-    <img align="center" src="giphy.gif"/>
+  <a href="background.gif"> 
+    <img align="center" src="background.gif"/>
   </a>
 </p>
 <p align="center">
