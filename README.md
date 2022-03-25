@@ -1,5 +1,18 @@
-### Hi there 👋
-
+<p align="center">
+  <a href="200.gif"> 
+    <img align="center" src="200.gif"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThuongNguyenVan158&show_icons=true&count_private=true&theme=dracula"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThuongNguyenVan158&layout=compact&langs_count=20&count_private=true&hide=tsql,hlsl,glsl,shaderlab&theme=dracula"/>
+  </a>
+</p>
 <!--
 **ThuongNguyenVan158/ThuongNguyenVan158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
