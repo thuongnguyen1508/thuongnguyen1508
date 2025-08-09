@@ -17,7 +17,7 @@ I'm a passionate .NET developer with expertise in cloud technologies and DevOps 
 
 I'm currently focused on enhancing my skills in:
 
-- Advanced Azure services such as Azure Functions, Azure Kubernetes Service (AKS), and Azure Logic Apps.
+- Advanced Azure services such as Azure Functions, Azure Kubernetes Service (AKS).
 - Implementing DevOps best practices for .NET projects, including infrastructure automation and continuous deployment.
 - Prepare for the cloud certification exam
 
